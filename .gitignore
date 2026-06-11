@@ -55,6 +55,3 @@ Thumbs.db
 # Reports (optional)
 # reports/*.csv
 # reports/*.xlsx
-
-# Power BI
-dashboard/*.pbix

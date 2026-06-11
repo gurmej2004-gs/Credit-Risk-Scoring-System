@@ -13,7 +13,6 @@ This system provides a complete end-to-end solution for credit risk assessment w
 - **MySQL Database Integration**: Complete database schema with normalized tables
 - **SQL Analytics**: Comprehensive SQL queries for business insights
 - **Excel Reporting**: Automated Excel reports with pivot tables and charts
-- **Power BI Dashboard**: Interactive visualization dashboard (instructions included)
 
 ## 🎯 Objective
 
@@ -26,7 +25,6 @@ Develop a banking analytics system that analyzes customer financial data and ass
 - **NumPy**: Numerical computing
 - **MySQL**: Relational database management
 - **SQL**: Database queries and analytics
-- **Power BI**: Data visualization dashboard
 - **Excel**: Reporting and pivot tables
 - **Git**: Version control
 - **GitHub**: Code repository
@@ -132,9 +130,6 @@ Credit-Risk-Scoring-System/
 │   ├── risk_scores.csv          # Calculated risk scores
 │   └── excel_report.xlsx        # Excel report with charts
 │
-├── dashboard/
-│   └── powerbi_instructions.md  # Power BI dashboard guide
-│
 ├── README.md                    # This file
 ├── requirements.txt             # Python dependencies
 └── .gitignore                   # Git ignore rules
@@ -146,7 +141,6 @@ Credit-Risk-Scoring-System/
 
 - Python 3.8 or higher
 - MySQL Server 8.0 or higher
-- Power BI Desktop (optional, for dashboard)
 
 ### Installation Steps
 
@@ -211,34 +205,6 @@ The system includes comprehensive SQL queries for business intelligence:
 
 All queries are available in `database/queries.sql`
 
-## 📊 Power BI Dashboard
-
-### Dashboard Pages
-
-#### 1. Overview
-- Total Customers (KPI Card)
-- Average Income (KPI Card)
-- Average Risk Score (KPI Card)
-
-#### 2. Risk Analysis
-- Risk Category Distribution (Pie Chart)
-- High Risk Customers (Table)
-- Risk Score Distribution (Bar Chart)
-
-#### 3. Financial Analysis
-- Income Distribution (Bar Chart)
-- Debt Ratio Distribution (Histogram)
-- Credit Utilization Analysis (Bar Chart)
-
-#### 4. Customer Analysis
-- Age Distribution (Bar Chart)
-- Dependents Analysis (Pie Chart)
-- Income vs Risk Score (Scatter Plot)
-
-### Dashboard Setup Instructions
-
-See `dashboard/powerbi_instructions.md` for detailed Power BI setup guide.
-
 ## 📊 Excel Report Features
 
 The automated Excel report includes:
@@ -285,7 +251,7 @@ This project demonstrates:
 - **SQL Skills**: Complex queries, joins, aggregations
 - **Python Programming**: Modular code structure, error handling
 - **Business Logic**: Rule-based decision making
-- **Data Visualization**: Excel charts and Power BI dashboards
+- **Data Visualization**: Excel charts and reports
 - **Version Control**: Git and GitHub workflow
 
 ## 💼 Suitable Roles
