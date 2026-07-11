@@ -1,10 +1,5 @@
 # Credit Risk Scoring System
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Excel](https://img.shields.io/badge/Excel-Reporting-success)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
 A Python-based Credit Risk Scoring System that analyzes customer financial data, assigns credit risk levels, recommends loan decisions, and generates an automated Excel banking report.
 
 The project processes **150,000 customer records** and demonstrates how financial institutions can use data analysis to support credit approval decisions.
