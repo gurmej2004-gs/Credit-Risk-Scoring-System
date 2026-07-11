@@ -46,7 +46,7 @@ Credit-Risk-Scoring-System
 │
 ├── reports/
 │   ├── risk_scores.csv
-│   └── Credit_Risk_Report_INR.xlsx
+│   └── excel_report.xlsx
 │
 ├── screenshots/
 │   ├── kpi_summary.png
@@ -197,7 +197,7 @@ After execution the following files are created:
 reports/
 
 ├── risk_scores.csv
-└── Credit_Risk_Report_INR.xlsx
+└── excel_report.xlsx
 ```
 
 The Excel report contains:
